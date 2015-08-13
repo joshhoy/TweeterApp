@@ -2,10 +2,27 @@
 <resources>
 
     <string name="app_name">SimpleTweets</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_timeline">Home TimeLine</string>
-    <string name="login_label">Connect to Twitter</string>
+    <string name="login_label">Log in</string>
+    <string name="connect_to_twitter">Connect to Twitter</string>
+    <string name="title_activity_timeline">TimelineActivity</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_compose_tweet">Tweet</string>
+    <string name="title_activity_compose_tweet">ComposeTweetActivity</string>
+    <string name="btn_tweet_text">Tweet</string>
+    <string name="home">Twitter Home</string>
+    <string name="action_tweet">Tweet</string>
+    <string name="no_network_string">No network available</string>
+    <string name="whats_happening">What\'s happening?</string>
+    <string name="no_user_string">No user found</string>
+    <string name="posted_tweet">Posted tweet!</string>
+    <string name="no_tweets">Unable to retrieve the tweets!</string>
+    <string name="max_length">140</string>
+    <string name="title_activity_tweet_display">TweetDisplayActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="tweetzone">TweetZone</string>
+    <string name="no_friends_string">No more friends found!</string>
+    <string name="no_followers_string">No more Followers found!</string>
 
 </resources>

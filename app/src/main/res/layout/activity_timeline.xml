@@ -1,16 +1,36 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.codepath.apps.restclienttemplate.TimelineActivity">
+    tools:context="com.codepath.apps.joshsimpletweets.activities.TimelineActivity"
+    android:background="@color/white">
 
-    <ListView
-        android:layout_width="wrap_content"
+
+    <!--<fragment-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:name="joshsimpletweets.fragments.MentionsTimelineFragment"-->
+        <!--android:id="@+id/homeTweetsList"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentStart="true"-->
+        <!--tools:layout="@layout/fragment_tweets_list" />-->
+
+    <com.astuetz.PagerSlidingTabStrip
+        android:id="@+id/tabs"
+        app:pstsShouldExpand="true"
+        app:pstsTextAllCaps="true"
+        app:pstsIndicatorColor="@color/blue"
+        android:textColor="@color/blue"
+        android:layout_width="match_parent"
+        android:layout_height="48dp">
+    </com.astuetz.PagerSlidingTabStrip>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_below="@id/tabs"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/lvTweets"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:background="@android:color/white" />
 </RelativeLayout>

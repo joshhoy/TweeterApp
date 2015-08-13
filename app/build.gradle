@@ -11,6 +11,9 @@ android {
     }
 
     buildTypes {
+        debug {
+            debuggable true
+        }
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
@@ -32,4 +35,6 @@ dependencies {
     compile 'com.loopj.android:android-async-http:1.4.6'
     // ActiveAndroid for simple persistence with an ORM
     compile 'com.michaelpardo:activeandroid:3.1.0-SNAPSHOT'
+    //compile 'com.android.support:support-v4:21.0.3'
+    compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
 }
