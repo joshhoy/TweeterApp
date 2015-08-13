@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-dbd3513e16ec5db3054c1a601a5f1befdc85c4df.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/libs/scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-c315b3b1db2f1cd22ab2a2a39eaf42d415fe38d2.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-ea8bf3ae524d96c328c515962411620fc8eef2f6.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/build/intermediates/pre-dexed/debug/classes-c2473e0ef553075d800b5b54dd87b91556546295.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/build/intermediates/pre-dexed/debug/codepath-utils-6589017baed2e57c8cf8e8bd412eb6116d18b08b.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-0fd1b21c504493fa4b86be05fc6bbd04cdf226af.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/build/intermediates/pre-dexed/debug/classes-325dc9a6464652b23c1b17388a6877055eabc0dd.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-b9f7cdd937767c1520fe747512b920b04c5b3b11.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-f7a56bca96ff62758baac647b9f0baf544b82866.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/android-rest-client-template-master/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-b7f19784b7b564a2ab72a50655fa7b7b3b7c459d.jar" />
+    </item>
+
+</items>
